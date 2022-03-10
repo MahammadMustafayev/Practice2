@@ -1,0 +1,14 @@
+C:\Users\tu7ekdm78\Desktop\Uni Tasks\UniTask1\UniTask1\bin\Debug\netcoreapp3.1\UniTask1.exe
+C:\Users\tu7ekdm78\Desktop\Uni Tasks\UniTask1\UniTask1\bin\Debug\netcoreapp3.1\UniTask1.deps.json
+C:\Users\tu7ekdm78\Desktop\Uni Tasks\UniTask1\UniTask1\bin\Debug\netcoreapp3.1\UniTask1.runtimeconfig.json
+C:\Users\tu7ekdm78\Desktop\Uni Tasks\UniTask1\UniTask1\bin\Debug\netcoreapp3.1\UniTask1.runtimeconfig.dev.json
+C:\Users\tu7ekdm78\Desktop\Uni Tasks\UniTask1\UniTask1\bin\Debug\netcoreapp3.1\UniTask1.dll
+C:\Users\tu7ekdm78\Desktop\Uni Tasks\UniTask1\UniTask1\bin\Debug\netcoreapp3.1\UniTask1.pdb
+C:\Users\tu7ekdm78\Desktop\Uni Tasks\UniTask1\UniTask1\obj\Debug\netcoreapp3.1\UniTask1.csproj.AssemblyReference.cache
+C:\Users\tu7ekdm78\Desktop\Uni Tasks\UniTask1\UniTask1\obj\Debug\netcoreapp3.1\UniTask1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tu7ekdm78\Desktop\Uni Tasks\UniTask1\UniTask1\obj\Debug\netcoreapp3.1\UniTask1.AssemblyInfoInputs.cache
+C:\Users\tu7ekdm78\Desktop\Uni Tasks\UniTask1\UniTask1\obj\Debug\netcoreapp3.1\UniTask1.AssemblyInfo.cs
+C:\Users\tu7ekdm78\Desktop\Uni Tasks\UniTask1\UniTask1\obj\Debug\netcoreapp3.1\UniTask1.csproj.CoreCompileInputs.cache
+C:\Users\tu7ekdm78\Desktop\Uni Tasks\UniTask1\UniTask1\obj\Debug\netcoreapp3.1\UniTask1.dll
+C:\Users\tu7ekdm78\Desktop\Uni Tasks\UniTask1\UniTask1\obj\Debug\netcoreapp3.1\UniTask1.pdb
+C:\Users\tu7ekdm78\Desktop\Uni Tasks\UniTask1\UniTask1\obj\Debug\netcoreapp3.1\UniTask1.genruntimeconfig.cache
