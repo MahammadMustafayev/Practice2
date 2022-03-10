@@ -1,12 +1,11 @@
 ﻿using System;
 
-namespace Uni_task2
+namespace UniTask2
 {
     class Program
     {
         static void Main(string[] args)
         {
-            
             int[] numbers = { 1, 3, 2, 5, 8, 10, 4 };
             for (int i = 0; i < numbers.Length; i++)
             {
@@ -22,17 +21,17 @@ namespace Uni_task2
 
         }
 
-        static void Change(int [] numbers)
+        static void Change(int[] numbers)
         {
             int min = 0;
             int max = 0;
-            for (int i = 0; i < numbers.Length-1; i++)
+            for (int i = 0; i < numbers.Length - 1; i++)
             {
-                if (min>numbers[i])
+                if (min > numbers[i])
                 {
                     min = i;
                 }
-                if (max<numbers[i])
+                else if (max < numbers[i])
                 {
                     max = i;
                 }
@@ -41,8 +40,9 @@ namespace Uni_task2
             numbers[max] = numbers[min] - numbers[max];
             numbers[min] = numbers[min] - numbers[max];
 
-            
+
 
         }
+
     }
 }

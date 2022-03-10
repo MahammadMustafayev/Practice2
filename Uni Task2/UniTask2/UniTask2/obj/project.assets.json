@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\tu7ekdm78\\Desktop\\Uni Tasks\\Uni task2\\Uni task2\\Uni task2.csproj",
-      "projectName": "Uni task2",
-      "projectPath": "C:\\Users\\tu7ekdm78\\Desktop\\Uni Tasks\\Uni task2\\Uni task2\\Uni task2.csproj",
+      "projectUniqueName": "C:\\Users\\tu7ekdm78\\Desktop\\Uni Task\\Practice2\\Uni Task2\\UniTask2\\UniTask2\\UniTask2.csproj",
+      "projectName": "UniTask2",
+      "projectPath": "C:\\Users\\tu7ekdm78\\Desktop\\Uni Task\\Practice2\\Uni Task2\\UniTask2\\UniTask2\\UniTask2.csproj",
       "packagesPath": "C:\\Users\\tu7ekdm78\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\tu7ekdm78\\Desktop\\Uni Tasks\\Uni task2\\Uni task2\\obj\\",
+      "outputPath": "C:\\Users\\tu7ekdm78\\Desktop\\Uni Task\\Practice2\\Uni Task2\\UniTask2\\UniTask2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
