@@ -1,0 +1,14 @@
+C:\Users\tu7ekdm78\Desktop\Uni Tasks\Uni task2\Uni task2\bin\Debug\netcoreapp3.1\Uni task2.exe
+C:\Users\tu7ekdm78\Desktop\Uni Tasks\Uni task2\Uni task2\bin\Debug\netcoreapp3.1\Uni task2.deps.json
+C:\Users\tu7ekdm78\Desktop\Uni Tasks\Uni task2\Uni task2\bin\Debug\netcoreapp3.1\Uni task2.runtimeconfig.json
+C:\Users\tu7ekdm78\Desktop\Uni Tasks\Uni task2\Uni task2\bin\Debug\netcoreapp3.1\Uni task2.runtimeconfig.dev.json
+C:\Users\tu7ekdm78\Desktop\Uni Tasks\Uni task2\Uni task2\bin\Debug\netcoreapp3.1\Uni task2.dll
+C:\Users\tu7ekdm78\Desktop\Uni Tasks\Uni task2\Uni task2\bin\Debug\netcoreapp3.1\Uni task2.pdb
+C:\Users\tu7ekdm78\Desktop\Uni Tasks\Uni task2\Uni task2\obj\Debug\netcoreapp3.1\Uni task2.csproj.AssemblyReference.cache
+C:\Users\tu7ekdm78\Desktop\Uni Tasks\Uni task2\Uni task2\obj\Debug\netcoreapp3.1\Uni task2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tu7ekdm78\Desktop\Uni Tasks\Uni task2\Uni task2\obj\Debug\netcoreapp3.1\Uni task2.AssemblyInfoInputs.cache
+C:\Users\tu7ekdm78\Desktop\Uni Tasks\Uni task2\Uni task2\obj\Debug\netcoreapp3.1\Uni task2.AssemblyInfo.cs
+C:\Users\tu7ekdm78\Desktop\Uni Tasks\Uni task2\Uni task2\obj\Debug\netcoreapp3.1\Uni task2.csproj.CoreCompileInputs.cache
+C:\Users\tu7ekdm78\Desktop\Uni Tasks\Uni task2\Uni task2\obj\Debug\netcoreapp3.1\Uni task2.dll
+C:\Users\tu7ekdm78\Desktop\Uni Tasks\Uni task2\Uni task2\obj\Debug\netcoreapp3.1\Uni task2.pdb
+C:\Users\tu7ekdm78\Desktop\Uni Tasks\Uni task2\Uni task2\obj\Debug\netcoreapp3.1\Uni task2.genruntimeconfig.cache
